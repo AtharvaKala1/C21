@@ -1,2 +1,2 @@
-# C21
-designing library files and function with arguments
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
